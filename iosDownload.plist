@@ -16,8 +16,6 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>Application require iPhone environment</key>
-				<boolean>YES</boolean>
 				<key>title</key>
 				<string>fish</string>
 				<key>bundle-version</key>
